@@ -1,0 +1,64 @@
+{
+  "People": [
+    {
+      "name": "Frank Wang",
+      "rating": 3,
+      "img": "http://www.fillmurray.com/200/200",
+      "Description": "Gluten-free cray cardigan vegan.",
+      "Likes": [
+        "Dogs"
+          ],
+      "Dislikes": [
+        "Birds"
+      ]
+    },
+    {
+      "name": "Andrew Amernante",
+      "rating": 5,
+      "img": "http://www.fillmurray.com/200/200",
+      "Description": "Before errors, mails were only pressures.",
+      "Likes": [
+        "Frank"
+      ],
+      "Dislikes": [
+        "Dogs"
+      ]
+    },
+    {
+      "name": "Sissi Chen",
+      "rating": 5,
+      "img": "http://www.fillmurray.com/200/200",
+      "Description": "Aaah! Natural light! Get it off me! Get it off me!",
+      "Likes": [
+        "Cats"
+      ],
+      "Dislikes": [
+        "Birds"
+      ]
+    },
+    {
+      "name": "Diego Garcia",
+      "rating": 2,
+      "img": "http://www.fillmurray.com/200/200",
+      "Description": "Facts are meaningless.",
+      "Likes": [
+        "Football"
+      ],
+      "Dislikes": [
+        "Not talking spanish"
+      ]
+    },
+    {
+      "name": "Fuad Rashid",
+      "rating": 4,
+      "img": "http://www.fillmurray.com/200/200",
+      "Description": "Gluten-free cray cardigan vegan.",
+      "Likes": [
+        "Dogs"
+      ],
+      "Dislikes": [
+        "Dead Batteries"
+      ]
+    }
+  ]
+}

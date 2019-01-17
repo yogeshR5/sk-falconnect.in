@@ -1,0 +1,70 @@
+.App {
+  text-align: left;
+  margin: auto;
+}
+table#employee_details{
+  width: 100%;
+ background-color: #f1f1c1;
+}
+table#employee_details tr:nth-child(even) {
+  background-color: #eee;
+}
+table#employee_details tr:nth-child(odd) {
+  background-color: #fff;
+}
+table#employee_details th {
+  color: white;
+  background-color: black;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+}
+th {
+  text-align: left;
+}
+table {
+  border-spacing: 5px;
+}
+.button_view{
+  display: flex;
+  justify-content: center;
+  padding: 30px 0px 20px 20px;
+}
+.add_button, .delete_button, .edit_button {
+  margin-left: 10px
+}
+
+.peopls_name{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: space-between;
+}
+.name_list{
+  padding: 10px;
+}
+.name_field{
+  padding: 10px;
+}
+
+.footer_area{
+  margin: 20px;
+}
+.details_content{
+font-size: 20px;
+
+}
+.rating_dispaly{
+  padding: 10px;
+}
+.newsletter_form{
+  background-color: 'green'
+}
+.Modal-modal-0-1-3 {
+    padding: 30px 60px !important;
+    border-radius: 5px;
+}
